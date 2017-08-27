@@ -1,23 +1,23 @@
-#To-Do List Project
+# To-Do List Project
 
-##Description
+## Description
 A to do list webpage where people can add tasks to create a list of things to do. Included option for user to mark when a task is complete. User can also delete a completed task.
 
-##Specifications
-Behavior  | Input | Outcome
-==========| ======| =======
-Input a to-do | Learn to code | Learn to
-Show completed tasks | Wash the car | ~~Wash the car~~
-Remove completed tasks from list | N/A | N/A
+## Specifications
+|Behavior  | Input | Outcome |
+|-----|:-----:|:-----:|
+|Input a to-do | Learn to code | Learn to|
+|Show completed tasks | Wash the car | ~~Wash the car~~|
+|Remove completed tasks from list | N/A | N/A|
 
-##Technologies Used:
+## Technologies Used:
 * HTML
 * CSS
 * jQuery
 * JavaScript
 * Font-Awesome
 
-##Setup and Installation
+## Setup and Installation
 ```bash
 # clone this repository
 $ git clone https://github.com/sanvean74/to-do-list.git
@@ -34,4 +34,4 @@ $ atom .
 #### License
 
 MIT
-Copyright (c) 2017
+Copyright (c) [Donna Lambert](https://github.com/sanvean74) 2017
