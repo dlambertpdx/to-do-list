@@ -6,7 +6,7 @@ A to do list webpage where people can add tasks to create a list of things to do
 ## Specifications
 |Behavior  | Input | Outcome |
 |-----|:-----:|:-----:|
-|Input a to-do | Learn to code | Learn to|
+|Input a to-do | Learn to code | Learn to code|
 |Show completed tasks | Wash the car | ~~Wash the car~~|
 |Remove completed tasks from list | N/A | N/A|
 
